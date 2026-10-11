@@ -3,19 +3,20 @@
   <!-- Header Badges -->
   <p align="center">
     <img src="https://komarev.com/ghpvc/?username=pratikpt1304&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
-    <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-00FF87?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
+    <img src="https://img.shields.io/badge/DUBAI_CHAMPIONSHIP-AI_AGENTS_CONTENDER-d4af37?style=for-the-badge&logo=google&logoColor=black" alt="Dubai Championship" />
+    <img src="https://img.shields.io/badge/STATUS-BUILDING_AUTONOMOUS_AI-00FF87?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
     <img src="https://img.shields.io/badge/LEARNING-JAPANESE%20%E6%97%A5%E6%9C%AC%E8%AA%9E-FF007F?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Japanese" />
   </p>
 
   <!-- Typing SVG Banner -->
   <a href="https://pratik-pt1908.netlify.app/">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+PRATIK+BALASAHEB+THORAT+%E2%9A%A1;Full+Stack+Developer+%26+AI+Systems+Engineer;Founder+%40+IP+Verse;Integrated+M.Tech+(AI+%26+ML);Autonomous+Agents+%26+Multimodal+Voice+RAG;Creator+of+IP+Prime+%26+OmniResearch+AI" alt="Typing Banner" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00F0FF&center=true&vCenter=true&width=900&height=60&lines=%E2%9A%A1+PRATIK+BALASAHEB+THORAT+%E2%9A%A1;AI+Systems+Architect+%26+Autonomous+Agent+Builder;Founder+%40+IP+Verse+%7C+Integrated+M.Tech+(AI+%26+ML);Creator+of+IP-Prime+(Autonomous+Multi-Agent+OS);Trilingual+Voice+Duplex+%26+Zero-Leakage+DLP+Systems;Full-Stack+Web%2C+Rust+Runtimes+%26+Edge+IoT+Engineering" alt="Typing Banner" />
   </a>
 
   <p align="center">
-    🎓 <b>Integrated M.Tech (AI & ML)</b> @ Sanjivani College of Engineering, SPPU (2024–2029)<br/>
-    👑 <b>Founder of IP Verse</b> — <i>Building Next-Gen Autonomous AI Systems & Scalable Architectures</i><br/>
-    📍 Maharashtra, India &nbsp;|&nbsp; 🇯🇵 <b>日本語学習中</b> <i>(Actively Learning Japanese)</i>
+    🎓 <b>Integrated M.Tech (AI & ML)</b> @ Sanjivani University / SPPU (2024–2029)<br/>
+    🚀 <b>Founder of IP Verse</b> — <i>Engineering Goal-Driven Autonomous AI Operating Systems & Scalable Platforms</i><br/>
+    📍 Maharashtra, India &nbsp;|&nbsp; 🇯🇵 <b>日本語</b> <i>(Actively Learning Japanese)</i>
   </p>
 
   <!-- Social Connect Badges -->
@@ -33,69 +34,79 @@
 
 <br/>
 
-## 👨‍💻 Developer Identity Console
+## 🧠 Developer Identity Console
 
 ```python
 class PratikThorat:
     def __init__(self):
         self.name = "Pratik Balasaheb Thorat"
-        self.role = "Full-Stack Developer & AI Systems Engineer"
-        self.education = "Integrated M.Tech in AI & ML @ Sanjivani / SPPU"
+        self.handle = "@pratikpt1304"
+        self.role = "AI Systems Architect & Full-Stack Engineer"
+        self.education = "Integrated M.Tech in AI & ML @ Sanjivani University"
         self.initiative = "Founder @ IP Verse"
-        self.languages = ["English", "Hindi", "Marathi", "Japanese (日本語)"]
-        self.core_focus = [
-            "Autonomous Multi-Agent Architecture",
-            "Multimodal Voice Streaming (Gemini Live API)",
-            "Desktop Neural Operating Systems & Knowledge Graphs",
-            "Full-Stack Web Platforms & In-Browser WebAssembly"
+        self.spoken_languages = ["English", "Hindi", "Marathi", "Japanese (日本語)"]
+        self.core_architecture = [
+            "Autonomous Multi-Agent Operating Systems (IP-Prime / WorkOS / Access)",
+            "Trilingual Full-Duplex Voice Streaming (ar-AE, en-US, hi-IN) & Gemini Live API",
+            "Zero-Leakage DLP & PII Redaction Guardrails + AST Sandboxed Execution",
+            "High-Speed Multi-Model Routing (Gemini 2.0, Groq LPU <0.4s, NVIDIA NIM, Rust)",
+            "Full-Stack Cloud Platforms, In-Browser WebAssembly & Edge IoT Robotics"
         ]
-        self.passions = ["Systems Architecture", "Astrophysics 🌌", "Chess ♟️", "Anime ⚡"]
-        self.status = "Open for AI / Full-Stack Roles & Collaboration 🚀"
+        self.status = "Competing in Dubai Create AI Agents Championship & Open for High-Impact AI Roles 🚀"
 
 me = PratikThorat()
 ```
 
 ---
 
-## 🚀 Public Projects Portfolio
+## 🏆 Flagship Spotlight: [IP-Prime — Autonomous Neural Desktop OS](https://github.com/pratikpt1304/IP-Prime)
 
-### 🧠 1. Autonomous AI, Agents & Neural Systems
-*Advanced agentic architectures, real-time voice streaming, and desktop cognitive systems.*
+> **Built for the Dubai Chamber of Digital Economy — "Create AI Agents Championship"**  
+> **[ 🏢 PRIME WorkOS (Autonomous SME Digital Workforce) · ♿ PRIME Access (100% Hands-Free Zero-GUI OS) ]**
 
-| Project | Tech Stack | Highlights | Links |
+- **🏢 2D Virtual AI Office Floor & Stigmergic Swarm:** Real-time observable 2D canvas where 6+ specialized AI agents collaborate across desks, exchange asynchronous file-backed mailbox envelopes, and gate high-risk actions via **Voice-First Human-in-the-Loop (HITL)**.
+- **🎙️ Trilingual Full-Duplex Voice (`ar-AE`, `en-US`, `hi-IN`):** Native support for **UAE Emirati Arabic (`ar-AE-HamdanNeural` / `ar-AE-FatimaNeural`)**, **English**, and **Hindi/Hinglish**, with sub-second acoustic barge-in (`"Stop"`, `"Ruko"`, `"Khalas"`) and spoken HITL sign-off (`"Approve"`, `"Mowafiq"` / `"موافق"`).
+- **🛡️ UAE Zero-Leakage DLP & PII Shield:** Deterministically intercepts and masks **Emirates IDs (`784-...`)**, **UAE IBANs (`AE...`)**, **+971 Phones**, Credit Cards, and API Secrets into `<REDACTED:...>` tokens before cloud inference, with local-only ephemeral vault re-hydration.
+- **⚡ 58+ Native OS Tools & 279 Specialist Personas:** Full Windows GUI control, Chromium browser automation, system-wide **Stapler Voice Dictation (`Ctrl+Alt+Space`)**, 5-layer SQLite + Obsidian Second Brain memory, and `<0.4s` Groq LPU failover.
+
+---
+
+## 🚀 Flagship Engineering Portfolio
+
+### 🤖 1. Autonomous AI Agents, Runtimes & Neural Systems
+*Production agentic architectures, multimodal voice streaming, and desktop cognitive operating systems.*
+
+| Project | Tech Stack | Architecture & Impact | Links |
 | :--- | :--- | :--- | :---: |
-| **⚡ [IP Prime Ultra](https://github.com/pratikpt1304/IP-Prime)** | `Python 3.11+`, `PyQt6`, `NVIDIA NIM`, `SQLite Graph` | Autonomous AI desktop neural core with glassmorphic HUD, 8-layer SQLite Knowledge Graph memory, and proactive vision. | [Source ↗](https://github.com/pratikpt1304/IP-Prime) |
-| **🤖 [OmniResearch AI](https://github.com/pratikpt1304/omniresearch-ai)** | `Python 3.11+`, `LangChain`, `FastAPI` | Autonomous multi-agent deep research platform with recursive web browsing and citation-backed report synthesis. | [Source ↗](https://github.com/pratikpt1304/omniresearch-ai) |
-| **🎙️ [VoxFlow](https://github.com/pratikpt1304/IP-VoxFlow-)** | `TypeScript`, `React`, `Gemini Live API` | Real-time calling simulator using duplex WebSockets and Gemini 2.5 Live multimodal audio streaming with PDF audits. | [Source ↗](https://github.com/pratikpt1304/IP-VoxFlow-) |
-| **⚙️ [IP Codemaker Agent](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001)** | `Rust`, `FastAPI`, `React`, `WebGL` | Autonomous AI coding suite & multi-model API router with a futuristic 3D WebGL interface. | [Source ↗](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001) |
-| **🧬 [Project Brain v2](https://github.com/pratikpt1304/Project-Brain-v2)** | `AI Runtime`, `Knowledge Graph`, `AST` | AI-native engineering runtime giving LLMs permanent architectural memory across development sessions. | [Source ↗](https://github.com/pratikpt1304/Project-Brain-v2) |
-| **🌌 [IP Vexa](https://github.com/pratikpt1304/IP-Vexa)** | `Electron`, `HTML/JS`, `Multi-LLM` | Open-source neural desktop companion with dynamic switching across NVIDIA NIM, Claude 3.5, and GPT-4o. | [Source ↗](https://github.com/pratikpt1304/IP-Vexa) |
-| **🛰️ [S.A.T](https://github.com/pratikpt1304/sat)** | `Python`, `Local Daemon` | Lightweight personal AI desktop automation assistant and background workflow daemon. | [Source ↗](https://github.com/pratikpt1304/sat) |
+| **⚡ [IP-Prime](https://github.com/pratikpt1304/IP-Prime)** | `Python 3.12`, `Gemini`, `Groq LPU`, `Edge-TTS`, `Flask` | Autonomous Trilingual (`ar-AE`/`en-US`/`hi-IN`) Multi-Agent Desktop OS with 2D Virtual Office Floor, 279 Specialist Agents, and Zero-Leakage UAE DLP Shield. | [Source ↗](https://github.com/pratikpt1304/IP-Prime) |
+| **🔬 [OmniResearch AI](https://github.com/pratikpt1304/omniresearch-ai)** | `Python 3.11+`, `Multi-Agent DAG`, `FastAPI` | Autonomous Multi-Agent Deep Research Platform featuring recursive web exploration, evidence-backed synthesis, and hallucination guardrails. | [Source ↗](https://github.com/pratikpt1304/omniresearch-ai) |
+| **🦀 [IP Codemaker Agent](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001)** | `Rust`, `Python`, `FastAPI`, `React`, `WebGL` | Autonomous AI Software Engineering Agent & Multi-Model Coding Runtime with native AST synthesis, tool-calling loop, and 3D Vortex UI. | [Source ↗](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001) |
+| **🎙️ [IP-VoxFlow](https://github.com/pratikpt1304/IP-VoxFlow)** | `TypeScript`, `React`, `Gemini Live API` | Real-time interactive voice calling simulator powered by bidirectional WebSockets, adjustable client personas, and automated PDF audit cards. | [Source ↗](https://github.com/pratikpt1304/IP-VoxFlow) |
+| **🧠 [Project Brain v2](https://github.com/pratikpt1304/Project-Brain-v2)** | `Knowledge Graph`, `AST`, `AI Runtime` | AI-native engineering runtime that gives LLMs permanent architectural memory of your codebase across sessions. | [Source ↗](https://github.com/pratikpt1304/Project-Brain-v2) |
+| **🌌 [IP-Vexa](https://github.com/pratikpt1304/IP-Vexa)** | `Electron`, `Multi-LLM`, `JavaScript` | Next-Gen Open-Source Neural Desktop Workspace with instant switching across NVIDIA NIM, Claude 3.5, GPT-4o & DeepSeek R1. | [Source ↗](https://github.com/pratikpt1304/IP-Vexa) |
 
 <br/>
 
-### 🌐 2. Production Full-Stack Web & SaaS Applications
-*Deployed real-world platforms solving high-impact problems.*
+### 🌐 2. Production Full-Stack Web, EdTech & FinTech Platforms
+*Deployed real-world SaaS applications solving high-impact student and enterprise problems.*
 
-| Project | Tech Stack | Highlights | Links |
+| Project | Tech Stack | Architecture & Impact | Links |
 | :--- | :--- | :--- | :---: |
-| **🧠 [DOAP Platform](https://github.com/pratikpt1304/doap-intelligent-learning)** | `React 18`, `Vite`, `Pyodide Wasm`, `Firebase` | Intelligent learning ecosystem with in-browser Python Wasm compilation and Gemini AI tutor. | [Live Demo ↗](https://doap-1908.web.app) • [Source ↗](https://github.com/pratikpt1304/doap-intelligent-learning) |
-| **🏠 [NESTRO Housing](https://github.com/pratikpt1304/nestro-student-housing)** | `React 18`, `Tailwind`, `Firebase Cloud` | India’s 1st AI-powered, 0% brokerage student housing platform with NEST AI recommendation engine. | [Live Demo ↗](https://nestro.web.app) • [Source ↗](https://github.com/pratikpt1304/nestro-student-housing) |
-| **💰 [Kharcha Control](https://github.com/pratikpt1304/kharcha-control)** | `JavaScript`, `Tesseract OCR`, `PWA` | Smart student expense manager with automated receipt OCR, bank SMS parsing, and Gemini AI. | [Live Demo ↗](https://kharcha-control.web.app) • [Source ↗](https://github.com/pratikpt1304/kharcha-control) |
-| **🎫 [EventPulse](https://github.com/pratikpt1304/Event-Pulse)** | `JavaScript`, `Firebase`, `Vercel` | Campus event super-platform featuring cryptographic QR passes, calendar sync, and matchmaking. | [Live Demo ↗](https://event-pulse-beta.vercel.app) • [Source ↗](https://github.com/pratikpt1304/Event-Pulse) |
-| **⚡ [IP API Storage](https://github.com/pratikpt1304/ip-api-storage)** | `React 18`, `Vite`, `Cyberpunk CSS` | Dynamic public REST API directory & aggregator with real-time category filtering and auth telemetry. | [Live Demo ↗](https://ip-api-storage.netlify.app) • [Source ↗](https://github.com/pratikpt1304/ip-api-storage) |
+| **🎓 [DOAP Intelligent Learning](https://github.com/pratikpt1304/doap-intelligent-learning)** | `React 18`, `Vite`, `Pyodide Wasm`, `Firebase` | Full-stack intelligent learning ecosystem featuring in-browser Python WebAssembly compilation, Google Gemini AI tutor, and cloud sync. | [Live ↗](https://doap-1908.web.app) · [Source ↗](https://github.com/pratikpt1304/doap-intelligent-learning) |
+| **🏠 [NESTRO Student Housing](https://github.com/pratikpt1304/nestro-student-housing)** | `React 18`, `Tailwind`, `Firebase`, `NEST AI` | India's 1st AI-powered, 0% brokerage student housing platform with smart roommate & property matching. | [Live ↗](https://nestro.web.app) · [Source ↗](https://github.com/pratikpt1304/nestro-student-housing) |
+| **💸 [Kharcha Control](https://github.com/pratikpt1304/kharcha-control)** | `JavaScript`, `Gemini AI`, `Tesseract OCR`, `PWA` | Smart student pocket-money manager, bill splitter & savings planner with UPI QR settle engine and bank SMS / receipt OCR. | [Live ↗](https://kharcha-control.web.app) · [Source ↗](https://github.com/pratikpt1304/kharcha-control) |
+| **⚡ [IP API Storage](https://github.com/pratikpt1304/ip-api-storage)** | `React 18`, `Vite`, `Cyberpunk HUD` | Dynamic public REST API aggregator & directory with real-time search, category filtering, and auth telemetry. | [Live ↗](https://ip-api-storage.netlify.app) · [Source ↗](https://github.com/pratikpt1304/ip-api-storage) |
 
 <br/>
 
-### 🏎️ 3. IoT, Interactive Systems & Data Dashboards
-*Embedded hardware, real-time analytics dashboards, and web interactivity.*
+### 🛰️ 3. Edge IoT Robotics, Geospatial Intelligence & Interactive Engines
+*Embedded hardware ML, real-time telemetry dashboards, and algorithmic game engines.*
 
-| Project | Tech Stack | Highlights | Links |
+| Project | Tech Stack | Architecture & Impact | Links |
 | :--- | :--- | :--- | :---: |
-| **🚗 [ESP32 Wireless AI Car](https://github.com/pratikpt1304/esp32-wireless-ai-car)** | `C++`, `ESP32`, `Python`, `Scikit-Learn` | Modular 3D-printed robotic vehicle with ESP32 sensor streaming and Decision Tree edge ML obstacle navigation. | [Source ↗](https://github.com/pratikpt1304/esp32-wireless-ai-car) |
-| **🗺️ [Global Intel Dashboard](https://github.com/pratikpt1304/global-intel-dashboard)** | `React`, `Vite`, `Leaflet/Maps` | Real-time global intelligence, geopolitical events, and telemetry tracking dashboard. | [Live Demo ↗](https://pratikpt1304.github.io/global-intel-dashboard/) • [Source ↗](https://github.com/pratikpt1304/global-intel-dashboard) |
-| **♟️ [Chess Hub](https://github.com/pratikpt1304/chess-hub)** | `JavaScript`, `HTML5 Canvas`, `CSS3` | Interactive web-based chess engine with legal move validation, board state rendering, and timers. | [Live Demo ↗](https://pratikpt1304.github.io/chess-hub/) • [Source ↗](https://github.com/pratikpt1304/chess-hub) |
-| **🎮 [The Great Game](https://github.com/pratikpt1304/The-Great-Game)** | `JavaScript`, `Canvas API`, `Web Game` | Web-based interactive game featuring canvas rendering, physics loop, and collision detection. | [Source ↗](https://github.com/pratikpt1304/The-Great-Game) |
+| **🤖 [ESP32 Wireless AI Car](https://github.com/pratikpt1304/esp32-wireless-ai-car)** | `C++`, `ESP32`, `Python`, `Scikit-Learn` | Modular 3D-printed autonomous robotic vehicle with ESP32 wireless sensor streaming and Decision Tree edge ML navigation. | [Source ↗](https://github.com/pratikpt1304/esp32-wireless-ai-car) |
+| **🌍 [Global Intel Dashboard](https://github.com/pratikpt1304/global-intel-dashboard)** | `React`, `Vite`, `Geospatial Maps` | Interactive global intelligence, geopolitical events, and real-time telemetry tracking dashboard. | [Live ↗](https://pratikpt1304.github.io/global-intel-dashboard/) · [Source ↗](https://github.com/pratikpt1304/global-intel-dashboard) |
+| **♟️ [Chess Hub](https://github.com/pratikpt1304/chess-hub)** | `JavaScript`, `HTML5 Canvas`, `CSS3` | Interactive web-based chess platform featuring legal move validation, board state rendering, and match timers. | [Live ↗](https://pratikpt1304.github.io/chess-hub/) · [Source ↗](https://github.com/pratikpt1304/chess-hub) |
 
 ---
 
@@ -103,53 +114,34 @@ me = PratikThorat()
 
 <div align="center">
 
-### 🧠 Artificial Intelligence & Machine Learning
-![Python](https://img.shields.io/badge/Python_3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Gemini](https://img.shields.io/badge/Google_Gemini_Live-8E75C2?style=for-the-badge&logo=google&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
-![WebAssembly](https://img.shields.io/badge/Pyodide_Wasm-654FF0?style=for-the-badge&logo=webassembly&logoColor=white)
+  <p align="center">
+    <img src="https://skillicons.dev/icons?i=python,rust,ts,js,cpp,react,vite,nodejs,fastapi,flask,tailwind,html,css,firebase,sqlite,docker,git,github,linux,vscode&perline=10" alt="Tech Stack Icons" />
+  </p>
 
-### 💻 Full-Stack Web & Systems
-![React](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript_ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite_6-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase_Cloud-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Electron](https://img.shields.io/badge/Electron-47848F?style=for-the-badge&logo=electron&logoColor=white)
-
-### 🔧 Tools, Cloud & Hardware
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![ESP32](https://img.shields.io/badge/ESP32_IoT-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+  ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+  ![Google Gemini](https://img.shields.io/badge/Google_Gemini_2.0_%26_Live-4285F4?style=for-the-badge&logo=google&logoColor=white)
+  ![Groq LPU](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![React 18](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+  ![ESP32 IoT](https://img.shields.io/badge/ESP32_Edge_ML-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 </div>
 
 ---
 
-## 📈 GitHub Analytics & Activity
+## 📊 GitHub Analytics & Contribution Activity
 
 <div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pratikpt1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpt1304&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-
-  <br/><br/>
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpt1304&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=pratikpt1304&theme=tokyonight&no-bg=true&column=6&margin-w=15" width="100%" alt="Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikpt1304&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
@@ -157,9 +149,9 @@ me = PratikThorat()
 
 <div align="center">
 
-  ### 💬 Let's Build Something Revolutionary Together!
+  ### 🤝 Let's Build Autonomous Systems Together!
 
-  <p>Whether you want to discuss <b>AI Agents, Voice RAG systems, Full-Stack Architecture</b>, or explore opportunities:</p>
+  <p>Open for <b>AI Systems Engineering, Autonomous Agent R&D, Full-Stack Architecture</b> & Global Hackathons:</p>
 
   <p>
     <a href="https://www.linkedin.com/in/pratikpt1908/"><img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
@@ -171,7 +163,7 @@ me = PratikThorat()
 
   <br/>
 
-  <sub><i>"The only way to predict the future is to build it with neural precision."</i></sub>
+  <sub><i>"The only way to predict the future is to engineer it with autonomous precision."</i></sub>
 
   <br/><br/>
 
