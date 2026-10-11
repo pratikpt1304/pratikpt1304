@@ -140,6 +140,16 @@ me = PratikThorat()
 
 <div align="center">
 
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pratikpt1304&theme=tokyonight" width="98%" alt="Profile Details & Contribution Graph" />
+
+  <br/><br/>
+
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pratikpt1304&theme=tokyonight" height="175" alt="GitHub Stats" />
+  &nbsp;&nbsp;
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pratikpt1304&theme=tokyonight" height="175" alt="Top Languages" />
+
+  <br/><br/>
+
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpt1304&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
 </div>
