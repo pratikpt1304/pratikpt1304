@@ -2,7 +2,7 @@
 
   <!-- Header Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=thoratpratik2323-hue&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=pratikpt1304&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
     <img src="https://img.shields.io/badge/STATUS-OPEN_FOR_ROLES-00FF87?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
     <img src="https://img.shields.io/badge/LEARNING-JAPANESE%20%E6%97%A5%E6%9C%AC%E8%AA%9E-FF007F?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Japanese" />
   </p>
@@ -64,13 +64,13 @@ me = PratikThorat()
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **⚡ [IP Prime Ultra](https://github.com/thoratpratik2323-hue/IP-Prime)** | `Python 3.11+`, `PyQt6`, `NVIDIA NIM`, `SQLite Graph` | Autonomous AI desktop neural core with glassmorphic HUD, 8-layer SQLite Knowledge Graph memory, and proactive vision. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-Prime) |
-| **🤖 [OmniResearch AI](https://github.com/thoratpratik2323-hue/omniresearch-ai)** | `Python 3.11+`, `LangChain`, `FastAPI` | Autonomous multi-agent deep research platform with recursive web browsing and citation-backed report synthesis. | [Source ↗](https://github.com/thoratpratik2323-hue/omniresearch-ai) |
-| **🎙️ [VoxFlow](https://github.com/thoratpratik2323-hue/IP-VoxFlow-)** | `TypeScript`, `React`, `Gemini Live API` | Real-time calling simulator using duplex WebSockets and Gemini 2.5 Live multimodal audio streaming with PDF audits. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-VoxFlow-) |
-| **⚙️ [IP Codemaker Agent](https://github.com/thoratpratik2323-hue/IP-Codemaker-Agent-ip_agent_001)** | `Rust`, `FastAPI`, `React`, `WebGL` | Autonomous AI coding suite & multi-model API router with a futuristic 3D WebGL interface. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-Codemaker-Agent-ip_agent_001) |
-| **🧬 [Project Brain v2](https://github.com/thoratpratik2323-hue/Project-Brain-v2)** | `AI Runtime`, `Knowledge Graph`, `AST` | AI-native engineering runtime giving LLMs permanent architectural memory across development sessions. | [Source ↗](https://github.com/thoratpratik2323-hue/Project-Brain-v2) |
-| **🌌 [IP Vexa](https://github.com/thoratpratik2323-hue/IP-Vexa)** | `Electron`, `HTML/JS`, `Multi-LLM` | Open-source neural desktop companion with dynamic switching across NVIDIA NIM, Claude 3.5, and GPT-4o. | [Source ↗](https://github.com/thoratpratik2323-hue/IP-Vexa) |
-| **🛰️ [S.A.T](https://github.com/thoratpratik2323-hue/sat)** | `Python`, `Local Daemon` | Lightweight personal AI desktop automation assistant and background workflow daemon. | [Source ↗](https://github.com/thoratpratik2323-hue/sat) |
+| **⚡ [IP Prime Ultra](https://github.com/pratikpt1304/IP-Prime)** | `Python 3.11+`, `PyQt6`, `NVIDIA NIM`, `SQLite Graph` | Autonomous AI desktop neural core with glassmorphic HUD, 8-layer SQLite Knowledge Graph memory, and proactive vision. | [Source ↗](https://github.com/pratikpt1304/IP-Prime) |
+| **🤖 [OmniResearch AI](https://github.com/pratikpt1304/omniresearch-ai)** | `Python 3.11+`, `LangChain`, `FastAPI` | Autonomous multi-agent deep research platform with recursive web browsing and citation-backed report synthesis. | [Source ↗](https://github.com/pratikpt1304/omniresearch-ai) |
+| **🎙️ [VoxFlow](https://github.com/pratikpt1304/IP-VoxFlow-)** | `TypeScript`, `React`, `Gemini Live API` | Real-time calling simulator using duplex WebSockets and Gemini 2.5 Live multimodal audio streaming with PDF audits. | [Source ↗](https://github.com/pratikpt1304/IP-VoxFlow-) |
+| **⚙️ [IP Codemaker Agent](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001)** | `Rust`, `FastAPI`, `React`, `WebGL` | Autonomous AI coding suite & multi-model API router with a futuristic 3D WebGL interface. | [Source ↗](https://github.com/pratikpt1304/IP-Codemaker-Agent-ip_agent_001) |
+| **🧬 [Project Brain v2](https://github.com/pratikpt1304/Project-Brain-v2)** | `AI Runtime`, `Knowledge Graph`, `AST` | AI-native engineering runtime giving LLMs permanent architectural memory across development sessions. | [Source ↗](https://github.com/pratikpt1304/Project-Brain-v2) |
+| **🌌 [IP Vexa](https://github.com/pratikpt1304/IP-Vexa)** | `Electron`, `HTML/JS`, `Multi-LLM` | Open-source neural desktop companion with dynamic switching across NVIDIA NIM, Claude 3.5, and GPT-4o. | [Source ↗](https://github.com/pratikpt1304/IP-Vexa) |
+| **🛰️ [S.A.T](https://github.com/pratikpt1304/sat)** | `Python`, `Local Daemon` | Lightweight personal AI desktop automation assistant and background workflow daemon. | [Source ↗](https://github.com/pratikpt1304/sat) |
 
 <br/>
 
@@ -79,11 +79,11 @@ me = PratikThorat()
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **🧠 [DOAP Platform](https://github.com/thoratpratik2323-hue/doap-intelligent-learning)** | `React 18`, `Vite`, `Pyodide Wasm`, `Firebase` | Intelligent learning ecosystem with in-browser Python Wasm compilation and Gemini AI tutor. | [Live Demo ↗](https://doap-1908.web.app) • [Source ↗](https://github.com/thoratpratik2323-hue/doap-intelligent-learning) |
-| **🏠 [NESTRO Housing](https://github.com/thoratpratik2323-hue/nestro-student-housing)** | `React 18`, `Tailwind`, `Firebase Cloud` | India’s 1st AI-powered, 0% brokerage student housing platform with NEST AI recommendation engine. | [Live Demo ↗](https://nestro.web.app) • [Source ↗](https://github.com/thoratpratik2323-hue/nestro-student-housing) |
-| **💰 [Kharcha Control](https://github.com/thoratpratik2323-hue/kharcha-control)** | `JavaScript`, `Tesseract OCR`, `PWA` | Smart student expense manager with automated receipt OCR, bank SMS parsing, and Gemini AI. | [Live Demo ↗](https://kharcha-control.web.app) • [Source ↗](https://github.com/thoratpratik2323-hue/kharcha-control) |
-| **🎫 [EventPulse](https://github.com/thoratpratik2323-hue/Event-Pulse)** | `JavaScript`, `Firebase`, `Vercel` | Campus event super-platform featuring cryptographic QR passes, calendar sync, and matchmaking. | [Live Demo ↗](https://event-pulse-beta.vercel.app) • [Source ↗](https://github.com/thoratpratik2323-hue/Event-Pulse) |
-| **⚡ [IP API Storage](https://github.com/thoratpratik2323-hue/ip-api-storage)** | `React 18`, `Vite`, `Cyberpunk CSS` | Dynamic public REST API directory & aggregator with real-time category filtering and auth telemetry. | [Live Demo ↗](https://ip-api-storage.netlify.app) • [Source ↗](https://github.com/thoratpratik2323-hue/ip-api-storage) |
+| **🧠 [DOAP Platform](https://github.com/pratikpt1304/doap-intelligent-learning)** | `React 18`, `Vite`, `Pyodide Wasm`, `Firebase` | Intelligent learning ecosystem with in-browser Python Wasm compilation and Gemini AI tutor. | [Live Demo ↗](https://doap-1908.web.app) • [Source ↗](https://github.com/pratikpt1304/doap-intelligent-learning) |
+| **🏠 [NESTRO Housing](https://github.com/pratikpt1304/nestro-student-housing)** | `React 18`, `Tailwind`, `Firebase Cloud` | India’s 1st AI-powered, 0% brokerage student housing platform with NEST AI recommendation engine. | [Live Demo ↗](https://nestro.web.app) • [Source ↗](https://github.com/pratikpt1304/nestro-student-housing) |
+| **💰 [Kharcha Control](https://github.com/pratikpt1304/kharcha-control)** | `JavaScript`, `Tesseract OCR`, `PWA` | Smart student expense manager with automated receipt OCR, bank SMS parsing, and Gemini AI. | [Live Demo ↗](https://kharcha-control.web.app) • [Source ↗](https://github.com/pratikpt1304/kharcha-control) |
+| **🎫 [EventPulse](https://github.com/pratikpt1304/Event-Pulse)** | `JavaScript`, `Firebase`, `Vercel` | Campus event super-platform featuring cryptographic QR passes, calendar sync, and matchmaking. | [Live Demo ↗](https://event-pulse-beta.vercel.app) • [Source ↗](https://github.com/pratikpt1304/Event-Pulse) |
+| **⚡ [IP API Storage](https://github.com/pratikpt1304/ip-api-storage)** | `React 18`, `Vite`, `Cyberpunk CSS` | Dynamic public REST API directory & aggregator with real-time category filtering and auth telemetry. | [Live Demo ↗](https://ip-api-storage.netlify.app) • [Source ↗](https://github.com/pratikpt1304/ip-api-storage) |
 
 <br/>
 
@@ -92,10 +92,10 @@ me = PratikThorat()
 
 | Project | Tech Stack | Highlights | Links |
 | :--- | :--- | :--- | :---: |
-| **🚗 [ESP32 Wireless AI Car](https://github.com/thoratpratik2323-hue/esp32-wireless-ai-car)** | `C++`, `ESP32`, `Python`, `Scikit-Learn` | Modular 3D-printed robotic vehicle with ESP32 sensor streaming and Decision Tree edge ML obstacle navigation. | [Source ↗](https://github.com/thoratpratik2323-hue/esp32-wireless-ai-car) |
-| **🗺️ [Global Intel Dashboard](https://github.com/thoratpratik2323-hue/global-intel-dashboard)** | `React`, `Vite`, `Leaflet/Maps` | Real-time global intelligence, geopolitical events, and telemetry tracking dashboard. | [Live Demo ↗](https://thoratpratik2323-hue.github.io/global-intel-dashboard/) • [Source ↗](https://github.com/thoratpratik2323-hue/global-intel-dashboard) |
-| **♟️ [Chess Hub](https://github.com/thoratpratik2323-hue/chess-hub)** | `JavaScript`, `HTML5 Canvas`, `CSS3` | Interactive web-based chess engine with legal move validation, board state rendering, and timers. | [Live Demo ↗](https://thoratpratik2323-hue.github.io/chess-hub/) • [Source ↗](https://github.com/thoratpratik2323-hue/chess-hub) |
-| **🎮 [The Great Game](https://github.com/thoratpratik2323-hue/The-Great-Game)** | `JavaScript`, `Canvas API`, `Web Game` | Web-based interactive game featuring canvas rendering, physics loop, and collision detection. | [Source ↗](https://github.com/thoratpratik2323-hue/The-Great-Game) |
+| **🚗 [ESP32 Wireless AI Car](https://github.com/pratikpt1304/esp32-wireless-ai-car)** | `C++`, `ESP32`, `Python`, `Scikit-Learn` | Modular 3D-printed robotic vehicle with ESP32 sensor streaming and Decision Tree edge ML obstacle navigation. | [Source ↗](https://github.com/pratikpt1304/esp32-wireless-ai-car) |
+| **🗺️ [Global Intel Dashboard](https://github.com/pratikpt1304/global-intel-dashboard)** | `React`, `Vite`, `Leaflet/Maps` | Real-time global intelligence, geopolitical events, and telemetry tracking dashboard. | [Live Demo ↗](https://pratikpt1304.github.io/global-intel-dashboard/) • [Source ↗](https://github.com/pratikpt1304/global-intel-dashboard) |
+| **♟️ [Chess Hub](https://github.com/pratikpt1304/chess-hub)** | `JavaScript`, `HTML5 Canvas`, `CSS3` | Interactive web-based chess engine with legal move validation, board state rendering, and timers. | [Live Demo ↗](https://pratikpt1304.github.io/chess-hub/) • [Source ↗](https://github.com/pratikpt1304/chess-hub) |
+| **🎮 [The Great Game](https://github.com/pratikpt1304/The-Great-Game)** | `JavaScript`, `Canvas API`, `Web Game` | Web-based interactive game featuring canvas rendering, physics loop, and collision detection. | [Source ↗](https://github.com/pratikpt1304/The-Great-Game) |
 
 ---
 
@@ -140,16 +140,16 @@ me = PratikThorat()
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=thoratpratik2323-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thoratpratik2323-hue&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pratikpt1304&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikpt1304&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thoratpratik2323-hue&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpt1304&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 
   <br/><br/>
 
-  <img src="https://github-profile-trophy.vercel.app/?username=thoratpratik2323-hue&theme=tokyonight&no-bg=true&column=6&margin-w=15" width="100%" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=pratikpt1304&theme=tokyonight&no-bg=true&column=6&margin-w=15" width="100%" alt="Trophies" />
 
 </div>
 
