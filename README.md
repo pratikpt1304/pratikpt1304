@@ -2,7 +2,8 @@
 
   <!-- Header Badges -->
   <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=pratikpt1304&label=PROFILE+VIEWS&color=00f0ff&style=for-the-badge" alt="Profile Views" />
+    <img src="https://img.shields.io/github/stars/pratikpt1304?affiliations=OWNER&label=GITHUB+STARS&color=00f0ff&style=for-the-badge&logo=github" alt="GitHub Stars" />
+    <img src="https://img.shields.io/github/followers/pratikpt1304?label=FOLLOWERS&color=00f0ff&style=for-the-badge&logo=github" alt="Followers" />
     <img src="https://img.shields.io/badge/DUBAI_CHAMPIONSHIP-AI_AGENTS_CONTENDER-d4af37?style=for-the-badge&logo=google&logoColor=black" alt="Dubai Championship" />
     <img src="https://img.shields.io/badge/STATUS-BUILDING_AUTONOMOUS_AI-00FF87?style=for-the-badge&logo=rocket&logoColor=black" alt="Status" />
     <img src="https://img.shields.io/badge/LEARNING-JAPANESE%20%E6%97%A5%E6%9C%AC%E8%AA%9E-FF007F?style=for-the-badge&logo=googletranslate&logoColor=white" alt="Japanese" />
@@ -118,16 +119,18 @@ me = PratikThorat()
     <img src="https://skillicons.dev/icons?i=python,rust,ts,js,cpp,react,vite,nodejs,fastapi,flask,tailwind,html,css,firebase,sqlite,docker,git,github,linux,vscode&perline=10" alt="Tech Stack Icons" />
   </p>
 
-  ![Python](https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white)
-  ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
-  ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-  ![Google Gemini](https://img.shields.io/badge/Google_Gemini_2.0_%26_Live-4285F4?style=for-the-badge&logo=google&logoColor=white)
-  ![Groq LPU](https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![React 18](https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-  ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-  ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-  ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-  ![ESP32 IoT](https://img.shields.io/badge/ESP32_Edge_ML-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python_3.12-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+    <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust" />
+    <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+    <img src="https://img.shields.io/badge/Google_Gemini_2.0_%26_Live-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Gemini" />
+    <img src="https://img.shields.io/badge/Groq_LPU-F55036?style=for-the-badge&logo=fastapi&logoColor=white" alt="Groq" />
+    <img src="https://img.shields.io/badge/React_18-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+    <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
+    <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase" />
+    <img src="https://img.shields.io/badge/ESP32_Edge_ML-E7352C?style=for-the-badge&logo=espressif&logoColor=white" alt="ESP32" />
+  </p>
 
 </div>
 
@@ -138,10 +141,6 @@ me = PratikThorat()
 <div align="center">
 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratikpt1304&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-
-  <br/><br/>
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pratikpt1304&theme=tokyo-night&hide_border=true&area=true" width="98%" alt="Contribution Graph" />
 
 </div>
 
